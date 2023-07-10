@@ -1,0 +1,206 @@
+[2023-03-2909:25:37] [ ERROR] [GlobalExceptionHandler: 19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "p"
+[2023-03-2909:45:16] [ ERROR] [GlobalExceptionHandler: 19] java.io.NotSerializableException: com.example.clinicaOdontologicaCroce.entity.Odontologo
+[2023-03-2909:55:03] [ ERROR] [GlobalExceptionHandler: 19] Cannot invoke "Object.toString()" because "odontologoDTO" is null
+[2023-03-2909:59:19] [ ERROR] [GlobalExceptionHandler: 19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "p"
+[2023-03-2910:01:58] [ ERROR] [GlobalExceptionHandler: 19] class com.example.clinicaOdontologicaCroce.entity.Odontologo cannot be cast to class com.example.clinicaOdontologicaCroce.entity.OdontologoDTO (com.example.clinicaOdontologicaCroce.entity.Odontologo and com.example.clinicaOdontologicaCroce.entity.OdontologoDTO are in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @3f2e32e8)
+[2023-03-2919:10:14] [ ERROR] [GlobalExceptionHandler: 19] class com.example.clinicaOdontologicaCroce.entity.Odontologo cannot be cast to class com.example.clinicaOdontologicaCroce.entity.OdontologoDTO (com.example.clinicaOdontologicaCroce.entity.Odontologo and com.example.clinicaOdontologicaCroce.entity.OdontologoDTO are in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @6dc62641)
+[2023-03-3020:40:58] [ ERROR] [GlobalExceptionHandler: 19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "r"
+[2023-03-3020:41:42] [ ERROR] [GlobalExceptionHandler: 19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "r"
+[2023-03-3113:25:01] [ ERROR] [GlobalExceptionHandler: 19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "apellido="Messi""
+[2023-03-3117:28:27] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot construct instance of `com.example.clinicaOdontologicaCroce.entity.Paciente` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1253)
+[2023-03-3117:28:53] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot construct instance of `com.example.clinicaOdontologicaCroce.entity.Paciente` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('1253')
+[2023-03-3117:35:45] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Odontologo
+[2023-03-3117:39:28] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$Izgmn7K3["hibernateLazyInitializer"])
+[2023-03-3117:40:47] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$Izgmn7K3["hibernateLazyInitializer"])
+[2023-03-3117:44:09] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Odontologo
+[2023-03-3117:44:13] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Odontologo
+[2023-03-3119:16:54] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Odontologo
+[2023-03-3119:19:45] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:26:42] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:26:44] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:33:43] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:37:14] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:37:33] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:39:50] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:39:51] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:42:31] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:44:54] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:44:55] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:46:17] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:46:18] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:53:49] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:59:04] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3119:59:06] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-03-3120:01:33] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$F8Dc774R["hibernateLazyInitializer"])
+[2023-03-3120:08:41] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$JmRye7cL["hibernateLazyInitializer"])
+[2023-03-3120:12:11] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$KieYKWnV["hibernateLazyInitializer"])
+[2023-03-3120:12:12] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$KieYKWnV["hibernateLazyInitializer"])
+[2023-03-3120:12:20] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$KieYKWnV["hibernateLazyInitializer"])
+[2023-03-3120:12:32] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKQHWVSF9BQSFMLHD0NURYNVWSD]
+[2023-03-3120:20:39] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$URvdkj6h["hibernateLazyInitializer"])
+[2023-03-3120:23:06] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$ceSChwwu["hibernateLazyInitializer"])
+[2023-03-3120:23:08] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$ceSChwwu["hibernateLazyInitializer"])
+[2023-03-3120:51:01] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Turno["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$f31lZO3W["hibernateLazyInitializer"])
+[2023-04-0319:18:24] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint ["FKQHWVSF9BQSFMLHD0NURYNVWSD: PUBLIC.TURNO FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTE(ID) (CAST(1 AS BIGINT))"; SQL statement:
+delete from paciente where id=? [23503-214]]
+[2023-04-0319:18:25] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint ["FKQHWVSF9BQSFMLHD0NURYNVWSD: PUBLIC.TURNO FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTE(ID) (CAST(2 AS BIGINT))"; SQL statement:
+delete from paciente where id=? [23503-214]]
+[2023-04-0319:24:19] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint ["FKQHWVSF9BQSFMLHD0NURYNVWSD: PUBLIC.TURNO FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTE(ID) (CAST(2 AS BIGINT))"; SQL statement:
+delete from paciente where id=? [23503-214]]
+[2023-04-0319:24:19] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint ["FKQHWVSF9BQSFMLHD0NURYNVWSD: PUBLIC.TURNO FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTE(ID) (CAST(1 AS BIGINT))"; SQL statement:
+delete from paciente where id=? [23503-214]]
+[2023-04-0319:25:31] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint ["FKQHWVSF9BQSFMLHD0NURYNVWSD: PUBLIC.TURNO FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTE(ID) (CAST(2 AS BIGINT))"; SQL statement:
+delete from paciente where id=? [23503-214]]
+[2023-04-0319:25:31] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint ["FKQHWVSF9BQSFMLHD0NURYNVWSD: PUBLIC.TURNO FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTE(ID) (CAST(1 AS BIGINT))"; SQL statement:
+delete from paciente where id=? [23503-214]]
+[2023-04-0320:50:55] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot deserialize value of type `int` from String "21222222222222222222222222222222222222222222": not a valid `int` value
+[2023-04-0415:57:01] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0415:59:11] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0416:03:06] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0416:10:01] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$3fgmNBaR["hibernateLazyInitializer"])
+[2023-04-0416:10:45] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$SM4mvfcS["hibernateLazyInitializer"])
+[2023-04-0416:10:47] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$SM4mvfcS["hibernateLazyInitializer"])
+[2023-04-0416:10:54] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$SM4mvfcS["hibernateLazyInitializer"])
+[2023-04-0416:10:55] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$SM4mvfcS["hibernateLazyInitializer"])
+[2023-04-0416:10:56] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$SM4mvfcS["hibernateLazyInitializer"])
+[2023-04-0416:12:42] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0416:22:54] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKQHWVSF9BQSFMLHD0NURYNVWSD]
+[2023-04-0417:10:14] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:12:29] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot deserialize value of type `int` from String "as": not a valid `int` value
+[2023-04-0417:21:08] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$XnZjEyg6["hibernateLazyInitializer"])
+[2023-04-0417:22:20] [ ERROR] [GlobalExceptionHandler: 19] No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.example.clinicaOdontologicaCroce.entity.Domicilio["paciente"]->com.example.clinicaOdontologicaCroce.entity.Paciente$HibernateProxy$ZIKG94XU["hibernateLazyInitializer"])
+[2023-04-0417:29:22] [ ERROR] [GlobalExceptionHandler: 19] Request method 'POST' is not supported
+[2023-04-0417:30:08] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot deserialize value of type `int` from String "asd": not a valid `int` value
+[2023-04-0417:32:34] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:38:41] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:41:16] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:42:28] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:44:26] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:44:48] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:47:33] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:50:45] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0417:51:56] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0418:05:52] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0419:53:02] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0420:08:17] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0420:13:33] [ ERROR] [GlobalExceptionHandler: 19] org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.example.clinicaOdontologicaCroce.entity.Domicilio.paciente -> com.example.clinicaOdontologicaCroce.entity.Paciente
+[2023-04-0521:39:26] [ ERROR] [GlobalExceptionHandler: 19] could not prepare statement; SQL [select p1_0.id,p1_0.apellido,p1_0.dni,p1_0.domicilio_id,p1_0.email,p1_0.fecha_de_ingreso,p1_0.nombre from paciente p1_0]
+[2023-04-0521:39:49] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:40:00] [ ERROR] [GlobalExceptionHandler: 19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "registrar"
+[2023-04-0521:42:06] [ ERROR] [GlobalExceptionHandler: 19] could not prepare statement; SQL [select p1_0.id,p1_0.apellido,p1_0.dni,p1_0.domicilio_id,p1_0.email,p1_0.fecha_de_ingreso,p1_0.nombre from paciente p1_0]
+[2023-04-0521:46:13] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:48:44] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:49:40] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:49:41] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:49:42] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:52:17] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:52:18] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:52:19] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:52:20] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:55:14] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:55:15] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:55:56] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0521:57:50] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0521:57:51] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0521:58:00] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0522:00:15] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0522:05:32] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0522:06:48] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+[2023-04-0522:06:52] [ ERROR] [GlobalExceptionHandler: 19] not-null property references a null or transient value : com.example.clinicaOdontologicaCroce.entity.Paciente.domicilio
+[2023-04-0522:17:09] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0522:17:50] [ ERROR] [GlobalExceptionHandler: 19] detached entity passed to persist: com.example.clinicaOdontologicaCroce.entity.Domicilio
+[2023-04-0616:22:21] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:22:43] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:23:23] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:24:25] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:25:05] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:27:05] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:34:41] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot deserialize value of type `int` from String "12312331231231": Overflow: numeric value (12312331231231) out of range of int (-2147483648 -2147483647)
+[2023-04-0616:35:45] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:36:03] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:43:21] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:45:27] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0616:45:41] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Unexpected character ('}' (code 125)): expected a value
+[2023-04-0617:15:13] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0617:15:46] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0618:53:58] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0618:54:11] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [null]
+[2023-04-0619:21:12] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]; constraint [FKE6NBFHWYMISXJA2FVDUNYRTB]
+[2023-04-0619:22:32] [ ERROR] [GlobalExceptionHandler: 19] JSON parse error: Cannot deserialize value of type `int` from String "3333333333333333333333333333333333333": not a valid `int` value
+[2023-04-0709:59:26] [ ERROR] [GlobalExceptionHandler: 19] No converter found capable of converting from type [com.example.clinicaOdontologicaCroce.entity.Odontologo] to type [com.example.clinicaOdontologicaCroce.entity.OdontologoDTO]
+[2023-04-0710:00:44] [ ERROR] [GlobalExceptionHandler: 19] No converter found capable of converting from type [com.example.clinicaOdontologicaCroce.entity.Odontologo] to type [com.example.clinicaOdontologicaCroce.entity.OdontologoDTO]
+[2023-04-0710:05:37] [ ERROR] [GlobalExceptionHandler: 48] No se ha podido encontrar al odontologo con id + 6
+[2023-04-0710:06:06] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0710:11:47] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0710:11:50] [ INFO ] [GlobalExceptionHandler: 62] Se ha eliminado al odontologo con id 3
+[2023-04-0710:11:50] [ ERROR] [GlobalExceptionHandler: 64] No se ha podido eliminar al odontologo con id3
+[2023-04-0710:13:10] [ ERROR] [GlobalExceptionHandler: 64] No se ha podido eliminar al odontologo con id3
+[2023-04-0710:13:30] [ INFO ] [GlobalExceptionHandler: 62] Se ha eliminado al odontologo con id 2
+[2023-04-0710:36:18] [ ERROR] [GlobalExceptionHandler: 19] No converter found capable of converting from type [com.example.clinicaOdontologicaCroce.entity.Paciente] to type [com.example.clinicaOdontologicaCroce.entity.PacienteDTO]
+[2023-04-0710:39:08] [ ERROR] [GlobalExceptionHandler: 48] No se ha podido encontrar al odontologo con id + 2
+[2023-04-0710:39:14] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0710:39:15] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0710:39:18] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0710:39:18] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0710:39:21] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0710:39:23] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0710:40:37] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0710:40:38] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0710:40:43] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0710:40:50] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0710:40:50] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:14:07] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:14:08] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:28:44] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:28:45] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:28:45] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:28:46] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:28:46] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:34:18] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:34:19] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:34:28] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:38:23] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:38:24] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:38:33] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]
+[2023-04-0711:38:33] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:38:41] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:38:44] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0711:38:44] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:38:48] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:38:50] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0711:38:50] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:38:52] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:40:48] [ ERROR] [GlobalExceptionHandler: 19] JDBC exception executing SQL [select o1_0.id,o1_0.apellido,o1_0.matricula,o1_0.nombre from odontologo o1_0 where o1_0.matricula like ? escape '']; SQL [n/a]
+[2023-04-0711:42:00] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:42:25] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:42:26] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:42:31] [ ERROR] [GlobalExceptionHandler: 19] could not execute statement; SQL [n/a]
+[2023-04-0711:42:31] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:44:33] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:44:34] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0711:44:37] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0711:44:37] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:44:45] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:44:55] [ ERROR] [GlobalExceptionHandler: 19] No converter found capable of converting from type [com.example.clinicaOdontologicaCroce.entity.Odontologo] to type [com.example.clinicaOdontologicaCroce.entity.OdontologoDTO]
+[2023-04-0711:45:13] [ ERROR] [GlobalExceptionHandler: 19] No converter found capable of converting from type [com.example.clinicaOdontologicaCroce.entity.Odontologo] to type [com.example.clinicaOdontologicaCroce.entity.OdontologoDTO]
+[2023-04-0711:45:20] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0711:45:22] [ INFO ] [GlobalExceptionHandler: 62] Se ha eliminado al odontologo con id 7
+[2023-04-0711:45:23] [ INFO ] [GlobalExceptionHandler: 62] Se ha eliminado al odontologo con id 5
+[2023-04-0711:45:23] [ INFO ] [GlobalExceptionHandler: 62] Se ha eliminado al odontologo con id 6
+[2023-04-0711:45:24] [ INFO ] [GlobalExceptionHandler: 62] Se ha eliminado al odontologo con id 4
+[2023-04-0711:45:55] [ ERROR] [GlobalExceptionHandler: 19] No converter found capable of converting from type [com.example.clinicaOdontologicaCroce.entity.Paciente] to type [com.example.clinicaOdontologicaCroce.entity.PacienteDTO]
+[2023-04-0711:52:43] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:13:22] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:14:15] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:18:38] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:18:40] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0712:19:04] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0712:19:04] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:19:28] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:21:45] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:25:49] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:26:18] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
+[2023-04-0712:26:22] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0712:26:34] [ INFO ] [GlobalExceptionHandler: 44] El odontologo ha sido encontrado correctamente
+[2023-04-0712:26:35] [ INFO ] [GlobalExceptionHandler: 55] El odontonlogo ha sido modificado correctamente
+[2023-04-0712:26:35] [ INFO ] [GlobalExceptionHandler: 76] Se han listado todos los odontologos
